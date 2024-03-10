@@ -21,4 +21,13 @@ git clone https://github.com/GarryMarathe/React_WeatherApp.git
 npm install
 ```
 
+## Environment Variables
+REACT_APP_OPENWEATHERMAP_API_KEY=your-api-key-goes-here
+
+
+## Running the Application
+```
+npm start
+```
+
 
