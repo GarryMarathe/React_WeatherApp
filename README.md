@@ -16,12 +16,14 @@ OpenWeatherMap API key (sign up here to get your API key)
 git clone https://github.com/GarryMarathe/React_WeatherApp.git
 ```
 
-## Dependencies:
+## Dependencies
+
 ```bash
 npm install
 ```
 
 ## Environment Variables
+
 REACT_APP_OPENWEATHERMAP_API_KEY=your-api-key-goes-here
 
 
