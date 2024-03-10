@@ -8,3 +8,11 @@ Before you begin, make sure you have the following:
 
 Node.js installed on your machine
 OpenWeatherMap API key (sign up here to get your API key)
+
+
+## Installation
+
+git clone https://github.com/GarryMarathe/React_WeatherApp.git
+
+
+
